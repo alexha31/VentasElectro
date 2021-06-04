@@ -1,0 +1,71 @@
+D:\Documentos de Universidad\Programacion\Programacion Visual\Pratica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+D:\Documentos de Universidad\Programacion\Programacion Visual\Pratica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+D:\Documentos de Universidad\Programacion\Programacion Visual\Pratica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+D:\Documentos de Universidad\Programacion\Programacion Visual\Pratica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+D:\Documentos de Universidad\Programacion\Programacion Visual\Pratica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.Form1.resources
+D:\Documentos de Universidad\Programacion\Programacion Visual\Pratica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.Properties.Resources.resources
+D:\Documentos de Universidad\Programacion\Programacion Visual\Pratica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.GenerateResource.cache
+D:\Documentos de Universidad\Programacion\Programacion Visual\Pratica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+D:\Documentos de Universidad\Programacion\Programacion Visual\Pratica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.exe
+D:\Documentos de Universidad\Programacion\Programacion Visual\Pratica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+D:\Documentos de Universidad\Programacion\Programacion Visual\Pratica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.FormularioRegistro.resources
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csprojAssemblyReference.cache
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.FormularioRegistro.resources
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.Properties.Resources.resources
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.GenerateResource.cache
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.exe
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.exe.config
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\MySql.Data.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\Google.Protobuf.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\Zstandard.Net.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\Ubiety.Dns.Core.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\Renci.SshNet.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\System.Memory.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\System.Buffers.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\K4os.Compression.LZ4.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\K4os.Hash.xxHash.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\System.Numerics.Vectors.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\MySql.Data.xml
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.Facturas.resources
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.CambioDeConstrasenia.resources
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.CatalogoProd.resources
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.MainForm.resources
+D:\Documentos de Universidad\Programacion\Programacion Visual\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.AcercaDe.resources
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\Zstandard.Net.dll
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\System.Memory.dll
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\System.Buffers.dll
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\MySql.Data.xml
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.AssemblyReference.cache
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.AcercaDe.resources
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.CambioDeConstrasenia.resources
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.CatalogoProd.resources
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.Facturas.resources
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.MainForm.resources
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.FormularioRegistro.resources
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.Properties.Resources.resources
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.GenerateResource.cache
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CopyComplete
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.exe
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Fundación Uno\Desktop\Practica 6 - Conexion a base de datos\BaseDeDatos\BaseDeDatos\bin\Debug\MySql.Data.dll

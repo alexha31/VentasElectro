@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasesLINQ">
+  <DataContextMoniker Name="/DataClasesLINQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="08343a08-3dc3-496d-ae01-b55db67d1e85" absoluteBounds="2.5, 4.25, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/DataClasesLINQDataContext/Catalogo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="239d53fd-5c42-4026-91e7-13a13a3938d7" absoluteBounds="2.515, 4.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f8fa5f3-2111-4e27-b3ac-eb4063cc68fc" absoluteBounds="2.5, 1.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataClasesLINQDataContext/Factura" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5d7c367f-8737-47db-b0b0-98c91fed000c" absoluteBounds="2.515, 2.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="16efcadc-5b68-400f-a6ef-384e48121056" absoluteBounds="5.25, 1.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DataClasesLINQDataContext/Producto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aafd8e98-db83-49e4-b9da-e58f2d96aff6" absoluteBounds="5.2650000000000006, 2.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.5 : 2.56814697265625); (5.25 : 2.56814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasesLINQDataContext/Factura/Factura_Producto" />
+      <nodes>
+        <classShapeMoniker Id="3f8fa5f3-2111-4e27-b3ac-eb4063cc68fc" />
+        <classShapeMoniker Id="16efcadc-5b68-400f-a6ef-384e48121056" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,16 @@
+drop database bd_login;
+
+create database bd_login;
+
+use  bd_login;
+
+create table tb_login(
+	nombre varchar(50) null,
+	usuario varchar(50) primary key,
+	clave varchar(12) null 
+)engine=InnoDB;
+
+insert into tb_login values
+("Alvaro Altamirano","admin","admin123"),
+("Maria Gonzales","mgonzalez","maria123"),
+("Carlos Perez","cperez","carlos123");
